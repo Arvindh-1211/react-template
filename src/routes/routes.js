@@ -1,7 +1,9 @@
+import LandingPage from "../pages/LandingPage";
+
 const routes = [
     {
         path: '/',
-        element: <div>Hello</div>
+        element: <LandingPage />
     },
 ]
 
